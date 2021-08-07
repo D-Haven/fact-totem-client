@@ -1,4 +1,4 @@
-module fact-totem-client
+module github.com/D-Haven/fact-totem-client
 
 go 1.15
 
